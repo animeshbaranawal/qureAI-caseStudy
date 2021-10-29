@@ -11,7 +11,7 @@ The layout of frontend is as follows:
 3. Image: Shows the image which was selected
 4. Display: Shows the inference data as horizontal bar chart.
 
-Using Docker to get the server up
+Using Docker to get the react app up
 ----------------------------------------
 Ensure that docker and docker-compose are setup on your system. 
 
